@@ -1,0 +1,5 @@
+{
+  "name": "app terreno G1P3",
+  "description": "A lightweight, web-based 3D terrain editor. Sculpt mountains, paint landscapes, and adjust water levels using procedural generation and real-time mesh manipulation.",
+  "requestFramePermissions": []
+}
